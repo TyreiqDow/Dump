@@ -1,0 +1,23 @@
+table {
+    border: 1.2px solid white;
+    width: 90%;
+    color: white;
+    font-size: 2vw;
+}
+
+th {
+    border: 1.2px solid white;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+    border: 1.2px solid white;
+  }
+
+tr:nth-child(odd) {
+    background-color: #3c2f83;
+}
