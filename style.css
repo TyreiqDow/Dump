@@ -123,7 +123,6 @@ a:hover {
   margin: 0 16px;
   cursor: pointer;
   color: white;
- 
 }
 
 
@@ -182,5 +181,9 @@ a:hover {
 
   .nav-menu.active {
       Left: 0;
+  }
+
+  .nav-link {
+      font-size: 1.85rem;
   }
 }
