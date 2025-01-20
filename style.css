@@ -16,15 +16,15 @@ html {
 }
 
 h1 {
-  font-size: 7vh;
+  font-size: 7vw;
 }
 
 h3 {
-  font-size: 5vh;
+  font-size: 5vw;
 }
 
 h6 {
-  font-size: 3vh;
+  font-size: 3vw;
 }
 
 
@@ -92,7 +92,7 @@ a {
 a:hover {
   background: linear-gradient(92.88deg, #463b83 , #5772b1 , #3dc3ee );
   border-radius: 8px;
-  font-size: 3vh;
+  font-size: 1.6vw;
   padding: .3rem;
 }
 
@@ -118,7 +118,7 @@ a:hover {
 
 .nav-link {
   transition: 1.3s ease;
-  font-size: 2.5vh;
+  font-size: 1.5vw;
   font-weight: 500;
   margin: 0 16px;
   cursor: pointer;
