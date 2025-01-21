@@ -92,7 +92,7 @@ a {
 a:hover {
   background: linear-gradient(92.88deg, #463b83 , #5772b1 , #3dc3ee );
   border-radius: 8px;
-  font-size: 1.4vw;
+  font-size: 1.3vw;
   padding: .3rem;
 }
 
@@ -118,7 +118,7 @@ a:hover {
 
 .nav-link {
   transition: 1.3s ease;
-  font-size: 1.3vw;
+  font-size: 1.2vw;
   font-weight: 500;
   margin: 0 16px;
   cursor: pointer;
