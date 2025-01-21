@@ -85,15 +85,19 @@ li {
 a {
   color: white;
   text-decoration: none;
-  
+  background: linear-gradient(92.88deg, #463b83 , #5772b1 , #3dc3ee );
+  border-radius: 8px;
+  padding: .4rem;
+  font-size: 1.2vw;
+  font-weight: normal;
 }
 
 
 a:hover {
-  background: linear-gradient(92.88deg, #463b83 , #5772b1 , #3dc3ee );
   border-radius: 8px;
-  font-size: 1.3vw;
-  padding: .3rem;
+  font-size: 1.35vw;
+  padding: .45rem;
+  font-weight: bolder;
 }
 
 
