@@ -7,13 +7,13 @@
         intital-scale=1.0">
 
         <title>CyberSlam Home</title>
-        <link rel="icon" type="image" href="Media/CyberSlam_Logo.png">
+        <link rel="icon" type="image" href="../Media/CyberSlam_Logo.png">
         <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 
         <div>
 
 
-            <img src="Media/CyberSlam_Logo.png" alt="CyberSlam Logo" class="main-logo-image">
+            <img src="../Media/CyberSlam_Logo.png" alt="CyberSlam Logo" class="main-logo-image">
 
 
 
@@ -77,7 +77,7 @@
 
 
 
-        <link rel="stylesheet" href="StyleKelly.css">
+        <link rel="stylesheet" href="../style.css">
     </head>
 
 
@@ -89,6 +89,6 @@
 
 
     <body>
-          <script src="script.js"></script>
+          <script src="../script.js"></script>
     </body>
 </html>
