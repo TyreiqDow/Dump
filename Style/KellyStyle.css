@@ -1,0 +1,77 @@
+h2 {
+    background-image: linear-gradient(92.88deg, #463b83 , #5772b1 , #3dc3ee );
+    color: #FFFFFF;
+    font-family: 'Chakra Petch'; 
+    text-align: center;
+    font-size: 80px;
+    font-weight: 1000;
+    padding: 30px;
+}
+
+.levels {
+    display: flex;
+    justify-content: space-around;
+}
+
+.levelPic{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+img{
+    margin-bottom: 20px;
+    width: 23vw;
+    height: 23vw;
+    cursor: pointer; 
+}
+
+
+h1 {
+    font-size: 3vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+iframe{
+    display:block;
+    margin: auto;
+}
+
+  
+  /* The actual popup (appears on top) */
+.popup .popuptext {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    visibility: hidden;
+    background-color: #463b83;
+    opacity: 0.9;
+    color: #fff;
+    z-index:9999;
+    position: fixed;
+    top:15vw;
+    bottom: 15vw;
+    left: 20vw;
+    right: 20vw;
+    margin: auto;
+  }
+  
+  
+  /* Toggle this class when clicking on the popup container (hide and show the popup) */
+  .popup .show {
+    visibility: visible;
+  }
+
+  header {
+    width: 87%;
+  }
+  .nav-link {
+    margin: 1.2vw;
+  }
+
+  .navbar {
+    padding-top: 20px;
+    min-height: 63px;
+  }
