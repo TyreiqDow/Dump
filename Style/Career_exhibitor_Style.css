@@ -85,7 +85,7 @@
     transition: all 1s ease;
 }
 
-.title {
+h2 {
     background-image: linear-gradient(92.88deg, #463b83 , #5772b1 , #3dc3ee );
     color: #FFFFFF;
     font-family: 'Chakra Petch'; 
