@@ -85,7 +85,7 @@
     transition: all 1s ease;
 }
 
-.header {
+h2 {
     background-image: linear-gradient(92.88deg, #463b83 , #5772b1 , #3dc3ee );
     color: #FFFFFF;
     font-family: 'Chakra Petch'; 
@@ -94,9 +94,9 @@
     font-weight: 1000;
     padding: 30px;
 }
-header {
+/*header {
     width: 87%;
-  }
+  }*/
   .nav-link {
     margin: 1.2vw;
   }
