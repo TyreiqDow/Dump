@@ -8,4 +8,4 @@ setInterval(() => {
     const styles = getComputedStyle(root);
     const mainColor = styles.getPropertyValue('--deg');
     console.log(mainColor);
-}, 25);
+}, 15);
