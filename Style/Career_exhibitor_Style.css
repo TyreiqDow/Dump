@@ -21,25 +21,29 @@
 
 .card-image{
     background-image:url('../Media/Blank.png');
-    height: 250px;
     margin-bottom: 15px;
     background-size: cover;
     border-radius: 15px 15px 0 0;
+    width: 80%;
+    height: auto;
 }
 
 .card-1{
     background-image:url('../Media/Blank.png')
     width: 80%;
+    height: auto;
 }
 
 .card-2{
     background-image:url('../Media/Blank.png')
     width: 80%;
+    height: auto;
 }
 
 .card-3{
     background-image:url('../Media/Blank.png')
     width: 80%;
+    height: auto;
 }
 
 .card p{
