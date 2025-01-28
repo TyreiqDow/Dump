@@ -6,7 +6,8 @@
 
 .card{
     background:rgb(50,50,50);
-    width: 80%;
+    width: 60%;
+    height: auto;
     margin: 10px;
     border-radius: 15px;
     text-align: center;
@@ -20,30 +21,22 @@
 }
 
 .card-image{
-    background-image:url('../Media/Blank.png');
+    height:300px;
     margin-bottom: 15px;
     background-size: cover;
     border-radius: 15px 15px 0 0;
-    width: 80%;
-    height: auto;
 }
 
 .card-1{
     background-image:url('../Media/Blank.png')
-    width: 80%;
-    height: auto;
 }
 
 .card-2{
     background-image:url('../Media/Blank.png')
-    width: 80%;
-    height: auto;
 }
 
 .card-3{
     background-image:url('../Media/Blank.png')
-    width: 80%;
-    height: auto;
 }
 
 .card p{
