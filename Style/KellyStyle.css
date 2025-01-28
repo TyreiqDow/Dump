@@ -15,6 +15,13 @@ img{
     cursor: pointer; 
 }
 
+.main-logo-image {
+  margin: 15px;
+  width: 10%;
+  height: auto;
+  float: left;
+}
+
 
 h1 {
     font-size: 3vw;
