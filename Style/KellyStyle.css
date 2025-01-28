@@ -53,19 +53,10 @@ iframe{
     left: 20vw;
     right: 20vw;
     margin: auto;
-  }
+}
   
   
   /* Toggle this class when clicking on the popup container (hide and show the popup) */
   .popup .show {
     visibility: visible;
-  }
-
-  .nav-link {
-    margin: 1.2vw;
-  }
-
-  .navbar {
-    padding-top: 20px;
-    min-height: 63px;
-  }
+}
